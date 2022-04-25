@@ -1,6 +1,5 @@
 # 19-04-Abril
-Ejemplos  de distintas formas de crear un meotdo y como utlizar los getter y setter
-
+Ejemplos de distintos métodos y como utlizar los getter y setter.
 
 TEORIA:
 
