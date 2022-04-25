@@ -1,4 +1,4 @@
-# 19-04-Abril
+# Clase 19-04
 Ejemplos de distintos métodos y como utlizar los getter y setter.
 
 TEORIA:
