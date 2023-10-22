@@ -1,4 +1,4 @@
-# Clase 19-04
+# GET AND SET
 Ejemplos de distintos métodos y como utlizar los getter y setter.
 
 TEORIA:
